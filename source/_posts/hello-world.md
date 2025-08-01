@@ -1,6 +1,10 @@
 ---
 title: Hello World
 date: 2025-07-31 17:47:32
+tags:
+  - 随笔
+categories:
+  - 杂谈
 ---
 
 #  Hello, World
