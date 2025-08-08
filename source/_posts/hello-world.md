@@ -1,5 +1,5 @@
 ---
-title: Hello World
+title: 青丝暮雪
 date: 2025-07-31 17:47:32
 tags:
   - 随笔
@@ -7,7 +7,7 @@ categories:
   - 杂谈
 ---
 
-#  Hello, World
+#  青丝暮雪
 
 我曾经呐喊过，渐渐地，我不再发出声音。  
 我曾经哭泣过，渐渐地，我不再流泪。  
@@ -42,4 +42,4 @@ categories:
 当真是朝如青丝暮成雪，是非成败转头空。
 
 ---
-**Hello World — Dark Moon Eternal.**
+**悟已往之不谏，知来者之可追。**
