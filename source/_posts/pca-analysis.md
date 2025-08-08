@@ -91,7 +91,7 @@ categories:
     \operatorname{cov}(x, y) =
     \frac{\sum_{i=1}^{n} (x_i - \bar{x})(y_i - \bar{y})}{n - 1}
     $$
-    ​	**协方差表示的是 两个变量在变化的变化的过程中是同方向变化 ? 还是反方向变化? 同向 或 反向程度如何? **
+    ​	**协方差表示的是 两个变量在变化的变化的过程中是同方向变化 ? 还是反方向变化? 同向 或 反向程度如何?**
     $$
     x \uparrow \ \rightarrow\ y \uparrow \ \rightarrow\ \operatorname{cov}(x, y) > 0
     $$
