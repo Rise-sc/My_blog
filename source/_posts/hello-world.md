@@ -43,3 +43,7 @@ categories:
 
 ---
 **悟已往之不谏，知来者之可追。**
+
+
+
+![image-20250816224142815](https://img.darkmoonrise.top/myblog/%E9%AD%94%E5%B0%8A%E5%B9%BD%E9%AD%82(1).jpg)
