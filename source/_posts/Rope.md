@@ -7,6 +7,7 @@ tags:
 categories:
   - 机器学习
 description: Rope理解
+mathjax: true
 ---
 # RoPE
 
