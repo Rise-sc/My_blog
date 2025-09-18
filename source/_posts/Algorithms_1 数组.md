@@ -47,12 +47,7 @@ int studentID = seatingChart[1][2]; // 结果是 203
 ```
 
 ##  2. 二分法 
-
-题目链接(704.)：https://leetcode.cn/problems/binary-search/
-
-文章讲解：[https://programmercarl.com/0704.%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE.html](https://programmercarl.com/0704.二分查找.html)
-
-视频讲解：https://www.bilibili.com/video/BV1fA4y1o715
+[题目链接(704.) ](https://leetcode.cn/problems/binary-search/)[文章讲解   ](https://programmercarl.com/0704.二分查找.html)[视频讲解   ](https://www.bilibili.com/video/BV1fA4y1o715)
 
 
 ```c++
@@ -106,11 +101,7 @@ public:
 
 ## 3. 移除元素
 
-题目链接(27.)：https://leetcode.cn/problems/remove-element/ 
-
-文章讲解：[https://programmercarl.com/0027.%E7%A7%BB%E9%99%A4%E5%85%83%E7%B4%A0.html](https://programmercarl.com/0027.移除元素.html)
-
-视频讲解：https://www.bilibili.com/video/BV12A4y1Z7LP 
+[题目链接(27.)  ](https://leetcode.cn/problems/remove-element/) [文章讲解   ](https://programmercarl.com/0027.移除元素.html)[视频讲解    ](https://www.bilibili.com/video/BV12A4y1Z7LP) 
 
 ```python
 // 快慢指针,也可以暴力解法
@@ -134,11 +125,7 @@ public:
 
 ## 4. 有序数组的平方
 
-题目链接：https://leetcode.cn/problems/squares-of-a-sorted-array/
-
-文章讲解:  https://programmercarl.com/0977.%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E7%9A%84%E5%B9%B3%E6%96%B9.html
-
-视频讲解： https://www.bilibili.com/video/BV1QB4y1D7ep 
+[题目链接   ](https://leetcode.cn/problems/squares-of-a-sorted-array/)[文章讲解:  ](https://programmercarl.com/0977.%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E7%9A%84%E5%B9%B3%E6%96%B9.html)[视频讲解    ](https://www.bilibili.com/video/BV1QB4y1D7ep) 
 
 ```c++
 // 思路 开方+快排, 时间复杂度为 O(Nlogn)
